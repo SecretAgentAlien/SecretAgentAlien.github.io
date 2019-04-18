@@ -21,7 +21,7 @@
 body{
 	color: #ccc;
 	background: url(../img/bg.jpg) no-repeat #161616 fixed;
-	background-position: bottom -100px;
+	background-position: -100px bottom;
 }
 
 #logo{
